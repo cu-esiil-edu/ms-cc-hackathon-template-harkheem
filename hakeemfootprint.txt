@@ -1,0 +1,10 @@
+Carbon Footprint Report
+=======================
+Transportation: 0.53 metric tons CO2e (2964 miles/year)
+Energy: 0.62 metric tons CO2e (672 kWh/year)
+Diet: 2.50 metric tons CO2e (Omnivore)
+Waste: 0.60 metric tons CO2e (No)
+
+TOTAL: 4.25 metric tons CO2e
+U.S. Average: 16.5 tCO2e
+You are at 25.7% of the U.S. average.
